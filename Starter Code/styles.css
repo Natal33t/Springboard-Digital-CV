@@ -23,3 +23,26 @@ hr {
     width: 25%;
     margin-left: 37.5%;
 }
+
+caption {
+    font-weight: bold;
+}
+
+table {
+    justify-self: center;
+}
+
+thead{
+    background-color:cornflowerblue;
+
+}
+
+
+tbody td {
+    border: 1px black solid;
+}
+
+td {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
